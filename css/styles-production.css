@@ -1,0 +1,69 @@
+/*styles-production
+*/
+
+html, body {
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5
+}
+
+html {
+    overflow-x: hidden
+}
+
+body, header, footer{
+        width: 300px;
+        border: 15px solid rgb(71, 184, 71);
+        padding: 50px;
+        margin: 20px;
+}
+
+.grid-header{
+    border:20px solid black;
+    background-color:black
+
+}
+.grid-header-item{
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+
+}
+.container{
+    font-size:15px;
+    background-color: antiquewhite;
+    /*this is for like headings and stuff that isn't the main content of the section.
+*/
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Segoe UI", Arial, sans - serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+
+
+hr {
+    border-top: 1px solid #eee;
+    margin: 20px 0
+}
+
+  
