@@ -1,2 +1,5 @@
 # frank13russo.github.io
-Frank Russo GitHub Page
+a place for my stuff
+
+professional
+personal
