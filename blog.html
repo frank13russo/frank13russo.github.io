@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>Frank Russo</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <style>
+  <head>
+    <title>Frank Russo</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <link rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script
+      src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style>
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
     .row.content {height: 550px}
     
@@ -22,117 +26,29 @@
       .row.content {height: auto;} 
     }
   </style>
-</head>
-<body>
+  </head>
+  <body>
+    <!--Navigation bar-->
+    <div id="nav-placeholder">
 
-<nav class="navbar navbar-inverse visible-xs">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
-      </button>
-      <!--<a class="navbar-brand" href="#">Logo</a>-->
     </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">home</a></li>
-        <li><a href="#">professional</a></li>
-        <li><a href="#">personal</a></li>
-        <li><a href="#">about</a></li>
-        <li><a href="#">blog</a></li>
-      </ul>
-    </div>
-  </div>
-</nav>
 
-<div class="container-fluid">
-  <div class="row content">
-    <div class="col-sm-3 sidenav hidden-xs">
-      <h2>Frank Russo</h2>
-      <ul class="nav nav-pills nav-stacked">
-        <li class="active"><a href="#section1">home</a></li>
-        <li><a href="#section2">portfolio</a></li>
-        <li><a href="#section3">resume</a></li>
-        <li><a href="#section3">about Frank</a></li>
-      </ul><br>
-    </div>
-    <br> 
-    <div class="col-sm-9">
-      <div class="well">
-        <h4>hello world! </h4>
-        <h1>10/22/2022</h1>
-        <p>This site is obviously... under development.  I just wanted to get something up and running so that I could post a couple of things to the internet.</p>
-        <p>-FR</p>
-        <p>p.s. hi mom!</p>
-        <p>p.p.s hi brett & allison!  congrats on your marriage!</p>
-      </div>
-      <!-- 
-      <div class="row">
-        <div class="col-sm-3">
-          <div class="well">
-            <h4>Users</h4>
-            <p>1 Million</p> 
-          </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="well">
-            <h4>Pages</h4>
-            <p>100 Million</p> 
-          </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="well">
-            <h4>Sessions</h4>
-            <p>10 Million</p> 
-          </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="well">
-            <h4>Bounce</h4>
-            <p>30%</p> 
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="well">
-            <p>Text</p> 
-            <p>Text</p> 
-            <p>Text</p> 
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="well">
-            <p>Text</p> 
-            <p>Text</p> 
-            <p>Text</p> 
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="well">
-            <p>Text</p> 
-            <p>Text</p> 
-            <p>Text</p> 
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-8">
-          <div class="well">
-            <p>Text</p> 
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="well">
-            <p>Text</p> 
-          </div>
-        </div>
-      </div>
-    </div>-->
-  </div>
-</div>
+    <script>
+$(function(){
+  $("#nav-placeholder").load("nav.html");
+});
+</script>
+    <!--end of Navigation bar-->
 
-</body>
+    <div class="well">
+      <h4>hello world! </h4>
+      <h1>10/22/2022</h1>
+      <p>This site is obviously... under development. I just wanted to get
+        something up and running so that I could post a couple of things to
+        the internet.</p>
+      <p>-FR</p>
+      <p>p.s. hi mom!</p>
+      <p>p.p.s hi brett & allison! congrats on your marriage!</p>
+    </div>
+  </body>
 </html>
