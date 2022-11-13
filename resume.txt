@@ -1,0 +1,49 @@
+Frank M. Russo
+Frank.M.Russo@gmail.com
+631.974.8950
+Professional Experience
+Business Process Owner	2018-2022
+Northrop Grumman Corporation – Baltimore, MD
+Leader of a multidisciplinary team responsible for the development deployment and adoption of a software solution using Scaled Agile (SAFe) methodology that digitally transformed company business processes.  
+Leader of a 30+ person team consisting of software developers, stakeholders, testers, training content creators and business process subject matter experts.
+Completed design, architecture and software implementation of a Siemens Teamcenter based Northrop Grumman Mission Systems Sector software solution that is to be used by the entire Northrop Grumman Mission System sector, consisting of 15+ Mission Systems campuses.
+
+Mechanical Engineer 	2015-Present
+Northrop Grumman Corporation – Baltimore, MD
+Specialize in high volume robotically loaded automated test solutions.  Develop requirements and design test equipment for military radar system components.  Advise junior engineers to ensure success of their mechanical designs.  Leverage GD&T, tolerance stack analysis and FEA as required.  Collaborate with thermal, structural, electrical and manufacturing engineering to define design requirements and implement solutions to challenging design problems.  Drive innovation in additive manufacturing, automation, business processes and mechanical model-based definitions (MBDs).
+Lead test mechanical engineer for the NGC Mission Systems highest volume product in company history (40,000+ RF modules per month) fully automated test solution.  Responsible for design, manufacturing, integration and maintenance of $2M+ of automation equipment.  Implemented innovated solutions in order to support aggressive schedules and a 23 second takt time.
+Lead mechanical engineer for a human loaded, automated operated, PLC controlled, radar antenna hardware test solution.
+Architected and designed interface test adapter solutions for unique programs.  Assembled and lead team of test mechanical engineers to develop a standard solution for a regularly occurring design problem.  
+Mentor for new entry level mechanical engineers.  Introduce the engineering design process, design philosophy, design problem solving techniques, design requirement development, and mechanical analysis concepts in the context of a design project.  
+Developed requirements for, completed design of an engineering of test bench, including a successful critical long lead, high cost backplane CCA to support testing of SEWIP LRU modules.  
+
+Mechanical Engineer	2012-2015
+Orbit International Corporation – Hauppauge, NY
+Complete mechanical designs of rugged military devices such as flat panel displays and human-machine interface devices using SolidWorks.  Work closely with electrical engineering, configuration, purchasing and manufacturing to maximize design quality while minimizing costs and ensuring scheduled delivery dates are met.
+Mechanical Engineer	2008-2012
+
+Northrop Grumman Electronic Systems – Melville, NY
+Complete mechanical design projects with senior engineer guidance.  Release and revise documentation, write equipment and test specifications, support environmental field testing.  Analyze thermal and mechanical loads.  Collaborate with manufacturing, electrical engineering, RF engineering and program management to ensure customer design requirements are met.
+Engineering Intern	2004-2007
+
+Holzmacher, McLendon & Murrell, P.C. (H2M) – Melville, NY
+Provided intern support in project management and environmental engineering at a wastewater treatment plant construction site.
+
+Education
+SUNY Stony Brook University (GPA: 3.83/4.0)	2011-2014
+M.S. - Mechanical Engineering
+
+The Pennsylvania State University 	2004-2008	
+B.S. - Mechanical Engineering, Minor Engineering Mechanics. 
+
+Technical Skills, Software Experience and Hobbies
+Experience with Siemens PLCs, Beckhoff PLCs, Fanuc / U.R .6 axis robots, servos, pneumatics and sensors and other automation components.
+CAD/CAM Software: Siemens I-deas, Siemens NX, SolidWorks, HSM Express, SolidCam
+PLM Software:  Teamcenter, Active Workspace 
+Analysis Software:  ANSYS Mechanical, ANSYS Workbench, Autodesk CFD, NX CAE, 
+Adobe:  Photoshop, Dreamweaver, Illustrator, Lightroom
+Programming Languages:  C++, MATLAB, MathCad, Qt, Visual Basic for Applications, Python, G Code, JavaScript, CSS, HTML, 
+Expert knowledge of ASME Y14.100, and Geometric Dimensioning and Tolerancing (GD&T)
+Company subject matter expert for 3D mechanical model based definitions (MBD) best practices.
+Selected components for and assembled Windows based computers (2010, 2018)
+Hobbies:  Acoustic / Electric Guitar (20 years), Kitesurfing (10 years), Photography, Woodworking, Dog Training
